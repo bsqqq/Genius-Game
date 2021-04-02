@@ -1,4 +1,4 @@
-// Para apenas 3 leds. 
+// # Para apenas 3 leds...
 
 int Led[3] = {26,25,33};
 int Botao[3] = {12,14,27};
